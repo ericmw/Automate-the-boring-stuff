@@ -1,2 +1,2 @@
-# Automate-the-boring-stuff
-Scripts based on different examples
+# Automate-the-boring-stuff-with-Python
+Scripts based on different examples from the book 
